@@ -1,0 +1,55 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 2.3.3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: WUZMeFlH0vBnZbJsMW0FVAk2EhwYQaWELN+nMfeldeE=
+
+Name: res/drawable-xhdpi-v4/os_launcher.png
+SHA-256-Digest: b+09vRdGmR/F87mMMqwpoPnAdVCUFrAlHogJt/hhriU=
+
+Name: res/drawable-xxhdpi-v4/os_launcher.png
+SHA-256-Digest: zwYU9oATHbNVkMktqjgkyjAHkHQb2hhqzCirBCe5SbE=
+
+Name: res/drawable-tvdpi-v4/os_launcher.png
+SHA-256-Digest: dyBVTc8SX7k6mvZ71r6nsgW9HfnyEnqmE0cRBVOkgOU=
+
+Name: assets/license.txt
+SHA-256-Digest: BDptzMVmdzPrapYdJlszqXh1wMFcKuJS8RQP6HhUIQc=
+
+Name: assets/random.dat
+SHA-256-Digest: 33ZDIPf9Gm3QI6x9Yt8a5KHVULPNK+krOIRWAMFquOo=
+
+Name: assets/fontmetrics.font
+SHA-256-Digest: ZEade1VY6x9mznHv1ukr1Us4WbEGV0eboUP3OTW7vZ8=
+
+Name: res/drawable-mdpi-v4/os_launcher.png
+SHA-256-Digest: ioxrUC2GTVZcLAcxCX7p/OMyKnIy9P8yRHj4A/ggGyE=
+
+Name: res/drawable-hdpi-v4/os_launcher.png
+SHA-256-Digest: DEBh/05dSGSImniy3ApByN9rgLAJ+KTRePtNAVwKOt0=
+
+Name: res/drawable-xxxhdpi-v4/os_launcher.png
+SHA-256-Digest: az5l0V3yTU53/SzrTVf/cfexgPF7dMTOc/OQRhj0hhc=
+
+Name: lib/armeabi-v7a/libosrenderer.so
+SHA-256-Digest: +SFSokj/xYGyHZfhSiKwWtP1rqX8Qy0VshJ86VRpucE=
+
+Name: assets/os_logo1024.png
+SHA-256-Digest: Jt1QOo/ZL6qIeEOsnem1zx1+WXCJQ6yLDY8P6dGknH0=
+
+Name: res/drawable-ldpi-v4/os_launcher.png
+SHA-256-Digest: bE/iM77+HTt334NIzDNooEO2ZAp9P/+i7SXbcG81mlA=
+
+Name: resources.arsc
+SHA-256-Digest: TDQAADdN3qtMtUTuhcMVoQY5PHTcPw6hzWPYEABnKpc=
+
+Name: res/drawable/jagex_logo.png
+SHA-256-Digest: LoUbDQam8GzpFGf0MKQFvbNtGfj6uyzX9FR2Gxm8Cks=
+
+Name: classes.dex
+SHA-256-Digest: aHqgMZWUG3z9KmY4m19iQJj8UqlKak1EZDRQnWWdDzA=
+
+Name: assets/font.font
+SHA-256-Digest: V2XdSOcB0YzPI08H4CFsy5+j15TXr6yywqyNz5klnXk=
+

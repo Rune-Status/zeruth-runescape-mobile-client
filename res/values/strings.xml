@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Old School RuneScape</string>
+    <string name="filter_view_jav">jav</string>
+    <string name="jav_config_url">http://oldschool.runescape.com/jav_config.ws</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NXTTheme">
+        <item>?unknown_ref: 106000d</item>
+        <item>true</item>
+        <item>?unknown_ref: 0</item>
+        <item>?unknown_ref: 1030000</item>
+        <item>true</item>
+        <item>?unknown_ref: 0</item>
+    </style>
+</resources>

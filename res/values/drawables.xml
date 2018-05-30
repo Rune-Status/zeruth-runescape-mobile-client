@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="jagex_logo">res/drawable/jagex_logo.png</drawable>
+    <drawable name="os_launcher">res/drawable-ldpi-v4/os_launcher.png</drawable>
+    <drawable name="os_launcher">res/drawable-mdpi-v4/os_launcher.png</drawable>
+    <drawable name="os_launcher">res/drawable-tvdpi-v4/os_launcher.png</drawable>
+    <drawable name="os_launcher">res/drawable-hdpi-v4/os_launcher.png</drawable>
+    <drawable name="os_launcher">res/drawable-xhdpi-v4/os_launcher.png</drawable>
+    <drawable name="os_launcher">res/drawable-xxhdpi-v4/os_launcher.png</drawable>
+    <drawable name="os_launcher">res/drawable-xxxhdpi-v4/os_launcher.png</drawable>
+</resources>

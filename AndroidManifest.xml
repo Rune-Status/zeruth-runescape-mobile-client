@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1700005" android:versionName="Alpha.170.5" package="com.jagex.oldscape.android" platformBuildVersionCode="25" platformBuildVersionName="7.1.1">
+    <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="25" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-feature android:glEsVersion="20000" android:required="true" />
+    <application android:theme="@style/NXTTheme" android:label="@string/app_name" android:icon="@drawable/os_launcher" android:allowBackup="true" android:hardwareAccelerated="true" android:largeHeap="true" android:isGame="true" android:resizeableActivity="false">
+        <meta-data android:name="android.max_aspect" android:value="2.4" />
+        <activity android:label="@string/app_name" android:name="com.jagex.oldscape.android.AndroidLauncher" android:launchMode="singleTop" android:screenOrientation="sensorLandscape" android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:immersive="true">
+            <meta-data android:name="android.app.lib_name" android:value="osrenderer" />
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter android:label="@string/filter_view_jav">
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="jagex-jav" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
